@@ -1,0 +1,110 @@
+
+/* Start Navigation */
+.navbar .container .navbar-brand>img{
+    width: 200px;
+    height: 50px;
+}
+.navbar .container .navbar-brand{
+    width: 200px;
+    height: 50px;
+}
+
+
+/* End Navigation */
+
+/* Introduction Start */
+
+
+.intro .main{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 8rem;
+
+}
+.intro .main .title-icon{
+    text-align: center;
+}
+
+
+/* Introduction End */
+
+/* Blue Section Start */
+.img{
+    width: 40px;
+    height: 50px;
+}
+
+.blue{
+    padding: 80px;
+}
+
+
+/* Blue Section End */
+
+
+
+/* What we are doing Start */
+.title-icon{
+    text-align: center;
+}
+
+.container-1{
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container-1 .box{
+    position: relative;
+    margin: 20px;
+    width: 350px;
+    height: 250px;
+    padding: 50px;
+    background: #fff;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    box-sizing: border-box;
+    overflow: hidden;
+    text-align: center;
+}
+.container-1 .box .icon{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 50%;
+    transition: 1s;
+    padding: 70px;
+
+}
+/* What we are doing End */
+
+
+/* Footer Style Start */
+.footer-top{
+    background: #25272e;
+    padding: 80px 0;
+    margin-top: 9rem;
+    color: white;
+} 
+/* Footer Style End */
+
+
+/* Scroll To Top Start */
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+}
+
+/* Scroll To Top End */
+
